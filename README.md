@@ -1,5 +1,9 @@
-# Human Activity Recognition Machine Learning and Tensorflow2.0 and keras
-This repository consist of code implementation for Human Activity Recognition.<br> We have implemented multi-class classification problem using both statistical and<br> deep learning method
+# Human Activity Recognition Machine Learning and Tensorflow2.0 and Keras
+This repository consist of code implementation for Human Activity Recognition using smart phone. We have implemented multi-class classification problem using both statistical and deep learning methods.
+<br>
+This project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
+<br>
+This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
 
 # Library required for Machine Learning mapped solution
  -numpy 
