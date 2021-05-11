@@ -1,26 +1,50 @@
-# Self Driving Car using Tensorflow 2.0+ and Keras
-This repository consist of code implementation for self driving car. We have implementation simple regression based ConvNet model.
-<br>
+# Human Activity Recognition Machine Learning and Tensorflow2.0 and keras
+This repository consist of code implementation for Human Activity Recognition.<br> We have implemented multi-class classification problem using both statistical and<br> deep learning method
 
-# Library
- -Tensorflow 2.0+
+# Library required for Machine Learning mapped solution
+ -numpy 
  <br>
- -OpenCV Python
+ -pandas
+ <br>
+ -matplotlib
+ <br>
+ -seaborn
+ <br>
+ -sklearn 
  <br>
  
-# Architecture
-Here, we have used Nvidea's self driving car architecture with some minor changes<br>
-link- https://developer.nvidia.com/blog/deep-learning-self-driving-cars/
-<br>
+ 
+# Library required for Deep Learning mapped solution
+-numpy 
+ <br>
+-pandas
+ <br>
+-matplotlib
+ <br>
+-tensorflow 2.0+
+ <br>
+-sklearn 
+ <br>
+ 
 
 # Dataset
 Dataset for the same can be downloaded from the given link.<br>
-link - https://github.com/SullyChen/driving-datasets
+link - https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 <br>
 
-# Pre-trained Model
-If you don't want to train model from the scratch, then you can directly load the pre-trained model files attached above and see the output.
-<br>
+# Algorithm used in ML
+-Logistic Regression<br>
+-Linear Support Vector Classifier<br>
+-Kernal Support Vector Classifier<br>
+-Decision Tree<br>
+-Random Forest<br>
+-Gradient Boosting Decision Tree<br>
+
+# Algorithm used in DL
+-Sequential LSTM Model<br>
 
 # Author
-Chirag Malaviya
+Chirag Malaviya<br>
+
+# Reference
+Applied AI Case Study<br>
